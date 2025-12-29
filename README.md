@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ **Мой Технологический Стек**
+## 🛠️ **Skills**
 
 <div align="center">
 
@@ -39,29 +39,60 @@
 
 </div>
 
----
 
-## 📊 **GitHub Статистика**
+---
+## 📱 **Свяжитесь со мной**
 
 <div align="center">
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=322mindset&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&title_color=00D4FF&icon_color=00D4FF)
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=322mindset&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&title_color=00D4FF)
-![График активности](https://github-readme-activity-graph.vercel.app/graph?username=322mindset&theme=react-dark&bg_color=0D1117&hide_border=true&color=00D4FF&line=00D4FF&point=FFFFFF)
+### **💬 Я всегда на связи! Выберите удобный способ:**
 
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <a href="https://t.me/dark322mindset" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="50" height="50" alt="Telegram">
+        <br>
+        <strong>Telegram</strong>
+        <br>
+        <sub>Быстрый ответ</sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://github.com/322mindset" target="_blank">
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" alt="GitHub">
+        <br>
+        <strong>GitHub</strong>
+        <br>
+        <sub>Мои проекты</sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://t.me/dark322mindset" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="50" height="50" alt="Steam">
+        <br>
+        <strong>Steam</strong>
+        <br>
+        <sub>Игры</sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="mailto:yarikgladenko2@gmail.com">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="50" height="50" alt="Gmail">
+        <br>
+        <strong>Gmail</strong>
+        <br>
+        <sub>Для дел</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
+<br>
 ---
 
 ## 🐧 **Linux Lifestyle**
 
 <div align="center">
 
-```bash
-# Мое рабочее окружение
-$ neofetch
-OS: Arch Linux x86_64
-Shell: zsh 5.9
-DE: GNOME/KDE Plasma
-Terminal: GNOME Terminal / Konsole
-Theme: Dracula / Nord
+fuck nvidia xd))
