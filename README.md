@@ -68,7 +68,7 @@
       </a>
     </td>
     <td align="center" width="140">
-      <a href="https://t.me/dark322mindset" target="_blank">
+      <a href="[https://t.me/dark322mindset](https://steamcommunity.com/profiles/76561199570755742/)" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="50" height="50" alt="Steam">
         <br>
         <strong>Steam</strong>
