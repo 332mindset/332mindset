@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mel1so;Fullstack+Developer;Arch+Linux+Enthusiast" alt="Typing SVG" />
 
 
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=332mindset&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
-    </a>
-  </p>
-
   ### 🚀 About Me
   
   I am a **Fullstack Developer** with over **2 years of experience**.  
