@@ -1,76 +1,78 @@
-# 👋 Приветствую! Меня зовут mel1sso
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&width=435&lines=Привет%2C+я+mel1sso!;Fullstack+разработчик;Опыт+работы+2+года;Добро+пожаловать+на+мой+GitHub!" alt="Динамическое приветствие" />
-</p>
-
-## 🚀 Обо мне
-
-<p align="center">
-Я <strong>fullstack разработчик</strong> с 2-летним опытом в создании современных веб-приложений.<br>
-Увлекаюсь созданием эффективных и эстетичных решений, постоянно изучаю новые технологии<br>
-и совершенствую свои навыки.
-</p>
-
-## 💻 Мой стек технологий
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-</p>
-
-<h3 align="center">Backend & Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-<h3 align="center">🛠️ Навыки</h3>
-<p align="center">
-  • <strong>Telegram боты</strong> на Python (aiogram, python-telegram-bot)<br>
-  • Fullstack веб-разработка (Frontend + Backend)<br>
-  • Создание современных SPA-приложений<br>
-  • Верстка адаптивных и кроссбраузерных интерфейсов<br>
-  • Работа с Git и системой контроля версий
-</p>
-
-## 📫 Как со мной связаться
-
-<p align="center">
-  <a href="https://github.com/mel1sso">
-    <img src="https://img.shields.io/badge/GitHub-mel1sso-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://t.me/dark322mindset">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:yarikgladenko2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
-## 🎯 Мои цели
-
-<p align="center">
-  • Углубление знаний в современных фреймворках (React, Vue)<br>
-  • Изучение TypeScript для улучшения качества кода<br>
-  • Разработка fullstack проектов с использованием React/Vue и Python<br>
-  • Создание сложных Telegram ботов с интеграцией различных API<br>
-  • Освоение современных инструментов разработки и DevOps практик
-</p>
-
----
-
 <div align="center">
+ 
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mel1so;Fullstack+Developer;Arch+Linux+Enthusiast" alt="Typing SVG" />
+
+
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=332mindset&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
+    </a>
+  </p>
+
+  ### 🚀 About Me
   
-  ⭐ <strong>Спасибо за посещение моего профиля! Не забудьте посмотреть мои репозитории ниже.</strong> ⭐
+  I am a **Fullstack Developer** with over **2 years of experience**.  
+  I am passionate about building beautiful interfaces, writing clean code, and ricing Linux systems.  
+  Specializing in **Vue.js + Python**, I create modern, efficient, and scalable web applications.
+
+  ---
+
+  ### 🛠 Tech Stack & Skills
+
+
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </div>
+
+
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Arch_Linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+  </div>
+
+  <br>
+
+  
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=332mindset&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=332mindset&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
+  </div>
+
+  ---
+
+  ### 🍙 My Setup (Arch Linux + Hyprland)
+
+  <p>
+    I run a fully customized <b>Arch Linux</b> environment using Hyprland WM.<br>
+    It is my primary workflow tool, optimized for speed and productivity.
+  </p>
+
+  <a href="https://github.com/332mindset/My_conf_arch">
+    <img src="https://img.shields.io/badge/📂_MY_DOTFILES_REPO-CLICK_HERE-blue?style=for-the-badge&logo=github&logoColor=white&color=000000" alt="Link to Dotfiles" />
+  </a>
   
   <br><br>
-  
-  ![Visitors](https://komarev.com/ghpvc/?username=mel1sso&color=blueviolet&style=flat-square)
+  <!-- Optional: If you have a preview image in your dotfiles repo, uncomment the line below -->
+  <!-- <img src="https://raw.githubusercontent.com/332mindset/My_conf_arch/main/preview.png" width="600" style="border-radius: 10px;"> -->
+
+  ---
+
+  ### 📬 Connect with Me
+
+  <div align="center">
+    <a href="https://t.me/ptontendernessmentality" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
+    <a href="mailto:yarikgladenko2@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </div>
 
 </div>
