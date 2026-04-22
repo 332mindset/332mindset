@@ -1,14 +1,12 @@
 <div align="center">
  
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mel1so;Fullstack+Developer;Arch+Linux+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Hi,+I'm+tendernesS;Fullstack+Developer;" alt="Typing SVG" />
 
 
   ### 🚀 About Me
   
-  I am a **Fullstack Developer** with over **2 years of experience**.  
-  I am passionate about building beautiful interfaces, writing clean code, and ricing Linux systems.  
-  Specializing in **Vue.js + Python**, I create modern, efficient, and scalable web applications.
+  Hi, I'm a full-stack developer with 2 years of experience working with the programming languages described below.
 
   ---
 
@@ -38,6 +36,16 @@
     <img src="https://github-readme-stats.vercel.app/api?username=332mindset&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=332mindset&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
   </div>
+
+  ---
+
+  ### 🔗 My Projects
+
+  [![🐍 Python Project](https://img.shields.io/badge/🐍_Python_Project-CLICK_HERE-black?style=for-the-badge&logo=github)](https://github.com/332mindset/ddosVIsual)
+
+  <br>
+
+  [![🌐 Web Project](https://img.shields.io/badge/🌐_Web_Project-CLICK_HERE-black?style=for-the-badge&logo=github)](https://github.com/332mindset/bookStore)
 
   ---
 
