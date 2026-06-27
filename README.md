@@ -1,7 +1,7 @@
 <div align="center">
  
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Hi,+I'm+tendernesS;Fullstack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Hi,+I'm+hanagumori;Fullstack+Developer;" alt="Typing SVG" />
 
 
   ### 🚀 About Me
