@@ -45,7 +45,7 @@
 
   <br>
 
-  [![🌐 Web Project](https://img.shields.io/badge/🌐_Web_Project-CLICK_HERE-black?style=for-the-badge&logo=github)](https://github.com/332mindset/bookStore)
+  [![🌐 Web Project](https://img.shields.io/badge/🌐_Web_Project-CLICK_HERE-black?style=for-the-badge&logo=github)](https://github.com/332mindset/ai-site)
 
   ---
 
@@ -56,7 +56,7 @@
     It is my primary workflow tool, optimized for speed and productivity.
   </p>
 
-  <a href="https://github.com/332mindset/My_conf_arch">
+  <a href="https://github.com/332mindset/SkyHypr">
     <img src="https://img.shields.io/badge/📂_MY_DOTFILES_REPO-CLICK_HERE-blue?style=for-the-badge&logo=github&logoColor=white&color=000000" alt="Link to Dotfiles" />
   </a>
   
@@ -69,7 +69,7 @@
   ### 📬 Connect with Me
 
   <div align="center">
-    <a href="https://t.me/ptontendernessmentality" target="_blank">
+    <a href="https://t.me/haanagumorii" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
     <a href="mailto:yarikgladenko2@gmail.com">
