@@ -1,80 +1,157 @@
-<div align="center">
- 
+<h1 align="center">hanagumori</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Hi,+I'm+hanagumori;Fullstack+Developer;" alt="Typing SVG" />
+<p align="center">
+  <b>young developer</b>
+</p>
 
+<p align="center">
+  building web projects · learning linux · starting cybersecurity
+</p>
 
-  ### 🚀 About Me
-  
-  Hi, I'm a full-stack developer with 2 years of experience working with the programming languages described below.
+<br>
 
-  ---
+<h2 align="center">languages & tools</h2>
 
-  ### 🛠 Tech Stack & Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,ts,python,git,github,bash,arch&theme=dark" />
+</p>
 
+<br>
 
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </div>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="48" />
+      <br>Vue
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" />
+      <br>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" />
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=arch&theme=dark" width="48" />
+      <br>Arch
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" />
+      <br>Code
+    </td>
+  </tr>
+</table>
 
+<br>
 
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Arch_Linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-  </div>
+<h2 align="center">github stats</h2>
 
-  <br>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hanagumori&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9" />
+  <img height="165" src="https://streak-stats.demolab.com?user=hanagumori&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=C9D1D9" />
+</p>
 
-  
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=332mindset&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=332mindset&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
-  </div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanagumori&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=ffffff" />
+</p>
 
-  ---
+<br>
 
-  ### 🔗 My Projects
+<h2 align="center">projects</h2>
 
-  [![🐍 Python Project](https://img.shields.io/badge/🐍_Python_Project-CLICK_HERE-black?style=for-the-badge&logo=github)](https://github.com/332mindset/ddosVIsual)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="./assets/projects/project-1.png" alt="project screenshot" width="100%" />
+      <h3>project one</h3>
+      <p>
+        Small web project. Clean interface, simple logic, and practice with frontend basics.
+      </p>
+      <p>
+        <a href="#">repo</a> · <a href="#">demo</a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <img src="./assets/projects/project-2.png" alt="project screenshot" width="100%" />
+      <h3>project two</h3>
+      <p>
+        Another project where I practice JavaScript, Vue, TypeScript, and UI structure.
+      </p>
+      <p>
+        <a href="#">repo</a> · <a href="#">demo</a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <img src="./assets/projects/project-3.png" alt="project screenshot" width="100%" />
+      <h3>project three</h3>
+      <p>
+        Personal experiment with layout, components, tools, and better code habits.
+      </p>
+      <p>
+        <a href="#">repo</a> · <a href="#">demo</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-  <br>
+<br>
 
-  [![🌐 Web Project](https://img.shields.io/badge/🌐_Web_Project-CLICK_HERE-black?style=for-the-badge&logo=github)](https://github.com/332mindset/ai-site)
+<h2 align="center">get in touch</h2>
 
-  ---
-
-  ### 🍙 My Setup (Arch Linux + Hyprland)
-
-  <p>
-    I run a fully customized <b>Arch Linux</b> environment using Hyprland WM.<br>
-    It is my primary workflow tool, optimized for speed and productivity.
-  </p>
-
-  <a href="https://github.com/332mindset/SkyHypr">
-    <img src="https://img.shields.io/badge/📂_MY_DOTFILES_REPO-CLICK_HERE-blue?style=for-the-badge&logo=github&logoColor=white&color=000000" alt="Link to Dotfiles" />
+<p align="center">
+  <a href="mailto:yarikgladenko2@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-yarikgladenko2%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
-  <br><br>
-  <!-- Optional: If you have a preview image in your dotfiles repo, uncomment the line below -->
-  <!-- <img src="https://raw.githubusercontent.com/332mindset/My_conf_arch/main/preview.png" width="600" style="border-radius: 10px;"> -->
+  <a href="https://t.me/haanagumorii">
+    <img src="https://img.shields.io/badge/telegram-@haanagumorii-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
-  ---
+<br>
 
-  ### 📬 Connect with Me
+<h2 align="center">most used languages</h2>
 
-  <div align="center">
-    <a href="https://t.me/haanagumorii" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
-    <a href="mailto:yarikgladenko2@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </div>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanagumori&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" />
+</p>
 
-</div>
+<br>
+
+<h2 align="center">currently</h2>
+
+```txt
+learning cybersecurity
+getting better at linux
+building small projects
+trying not to write ugly code
