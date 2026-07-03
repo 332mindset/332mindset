@@ -2,9 +2,7 @@
 
 # hanagumori
 
-**young developer**
-
-Building web projects, learning by doing, and growing every day.
+<img src="./assets/preview.png" alt="hanagumori preview banner" width="100%" />
 
 </div>
 
