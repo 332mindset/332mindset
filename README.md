@@ -73,26 +73,6 @@
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-
-<img 
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=332mindset&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9"
-/>
-
-<img 
-  height="170"
-  src="https://streak-stats.demolab.com?user=332mindset&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=C9D1D9"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 ## ▱ Projects
 
 <table align="center">
