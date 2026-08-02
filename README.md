@@ -88,30 +88,7 @@ Languages & Tools
   </tr>
 </table>
 
-Projects
 
-Northside Auto Repair
-
-Premium landing page concept for an American auto repair business.
-
-React TypeScript Vite Tailwind CSS Framer Motion
-
-Responsive design
-
-Animated sections and counters
-
-Interactive appointment form
-
-Modern glassmorphism interface
-
-<p>
-  <a href="https://northside-auto-repair.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" />
-  </a>
-  <a href="https://github.com/332mindset/northside-auto-repair">
-    <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Source code" />
-  </a>
-</p>
 
 What I Build
 
