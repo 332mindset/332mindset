@@ -1,108 +1,170 @@
 <h1 align="center">
   <a href="https://github.com/332mindset">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=hanagumori;Frontend+Developer;React+%C2%B7+TypeScript+%C2%B7+Tailwind+CSS"
-      alt="hanagumori — Frontend Developer"
-    />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=hanagumori;Frontend+Developer;React+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+CSS" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-  I build fast, responsive and visually polished websites for small businesses.
+Building fast, responsive and visually polished websites for modern businesses.
 </p>
 
 <p align="center">
-  <a href="yarikgladenko2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:yarikgladenko2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://t.me/haanagumorii">
-    <img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://github.com/332mindset">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-About
+---
 
-Frontend developer focused on commercial landing pages, responsive business websites and polished user interfaces.
+# About
 
-I work with React, TypeScript, Vite and Tailwind CSS. I use AI tools to speed up development, but I still review structure, behavior, responsiveness and production quality myself.
+Frontend developer focused on creating modern, responsive and production-ready websites.
 
-Languages & Tools
+I primarily work with **React**, **TypeScript**, **Vite** and **Tailwind CSS**, building interfaces that are fast, accessible and visually polished.
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
-      <br />
-      <sub><b>HTML</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-      <br />
-      <sub><b>CSS</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br />
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      <br />
-      <sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      <br />
-      <sub><b>React</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="Vite" />
-      <br />
-      <sub><b>Vite</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" />
-      <br />
-      <sub><b>Tailwind</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br />
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-      <br />
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      <br />
-      <sub><b>Linux</b></sub>
-    </td>
-  </tr>
-</table>
+I use modern AI-assisted workflows to speed up development while personally reviewing architecture, responsiveness, accessibility and production quality.
 
+---
 
+# Portfolio
 
-What I Build
+| Project | Live Demo |
+|---------|-----------|
+| 🦷 **Haven Dental** | https://haven-dental-6a57b2jt7-skywalker-linux.vercel.app/ |
+| 🚗 **Northside Auto Repair** | https://northside-auto-repair.vercel.app/ |
+
+---
+
+# Tech Stack
 
 <table>
-  <tr>
-    <td><b>Business websites</b><br />Modern sites for local companies and service businesses.</td>
-    <td><b>Landing pages</b><br />Focused pages designed around a clear business goal.</td>
-  </tr>
-  <tr>
-    <td><b>Responsive interfaces</b><br />Layouts that work properly across desktop and mobile.</td>
-    <td><b>Website redesigns</b><br />Modernized visuals, structure and interactions.</td>
-  </tr>
+<tr>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br>
+<b>HTML</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br>
+<b>CSS</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br>
+<b>JavaScript</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/><br>
+<b>TypeScript</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><br>
+<b>React</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="48"/><br>
+<b>Vite</b>
+</td>
+
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48"/><br>
+<b>Tailwind</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br>
+<b>Git</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/><br>
+<b>GitHub</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/><br>
+<b>Linux</b>
+</td>
+
+</tr>
 </table>
+
+---
+
+# GitHub Stats
 
 <p align="center">
-  <b>Available for freelance frontend projects.</b>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=332mindset&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=332mindset&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# What I Build
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Business Websites
+
+Modern websites for local companies and service businesses.
+
+</td>
+
+<td width="50%">
+
+### Landing Pages
+
+High-converting landing pages designed around a single business goal.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### Responsive Interfaces
+
+Clean layouts optimized for desktop, tablet and mobile.
+
+</td>
+
+<td>
+
+### Website Redesigns
+
+Modern UI, animations and improved user experience.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<p align="center">
+<b>Open to freelance work and frontend collaborations.</b>
 </p>
