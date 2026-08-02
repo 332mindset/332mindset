@@ -36,7 +36,7 @@ I use modern AI-assisted workflows to speed up development while personally revi
 
 | Project | Live Demo |
 |---------|-----------|
-| 🦷 **Haven Dental** | https://haven-dental-6a57b2jt7-skywalker-linux.vercel.app/ |
+| 🦷 **Haven Dental** | https://haven-dental.vercel.app/ |
 | 🚗 **Northside Auto Repair** | https://northside-auto-repair.vercel.app/ |
 
 ---
