@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your-yarikgladenko2@gmail.com">
+  <a href="yarikgladenko2@gmail.com">
     <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://t.me/haanagumorii">
