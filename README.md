@@ -1,135 +1,131 @@
-<div align="center">
+<h1 align="center">
+  <a href="https://github.com/332mindset">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=hanagumori;Frontend+Developer;React+%C2%B7+TypeScript+%C2%B7+Tailwind+CSS"
+      alt="hanagumori — Frontend Developer"
+    />
+  </a>
+</h1>
 
-# hanagumori
+<p align="center">
+  I build fast, responsive and visually polished websites for small businesses.
+</p>
 
-<img src="./assets/preview.png" alt="hanagumori preview banner" width="100%" />
+<p align="center">
+  <a href="mailto:your-yarikgladenko2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/haanagumorii">
+    <img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://github.com/332mindset">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-</div>
+About
 
-<br>
+Frontend developer focused on commercial landing pages, responsive business websites and polished user interfaces.
 
-## ‹› Languages & Tools
+I work with React, TypeScript, Vite and Tailwind CSS. I use AI tools to speed up development, but I still review structure, behavior, responsiveness and production quality myself.
 
-<div align="center">
+Languages & Tools
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="55" />
-      <br>
-      <sub>HTML</sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+      <br />
+      <sub><b>HTML</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="55" />
-      <br>
-      <sub>CSS</sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+      <br />
+      <sub><b>CSS</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="55" />
-      <br>
-      <sub>JavaScript</sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br />
+      <sub><b>JavaScript</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="55" />
-      <br>
-      <sub>Vue.js</sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br />
+      <sub><b>TypeScript</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="55" />
-      <br>
-      <sub>TypeScript</sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br />
+      <sub><b>React</b></sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="55" />
-      <br>
-      <sub>Python</sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="Vite" />
+      <br />
+      <sub><b>Vite</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="55" />
-      <br>
-      <sub>Git</sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" />
+      <br />
+      <sub><b>Tailwind</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="55" />
-      <br>
-      <sub>GitHub</sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br />
+      <sub><b>Git</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="55" />
-      <br>
-      <sub>Bash</sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      <br />
+      <sub><b>GitHub</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=arch&theme=dark" width="55" />
-      <br>
-      <sub>Arch Linux</sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br />
+      <sub><b>Linux</b></sub>
     </td>
   </tr>
 </table>
 
-</div>
+Projects
 
-<br>
+Northside Auto Repair
 
-## ▱ Projects
+Premium landing page concept for an American auto repair business.
 
-<table align="center">
+React TypeScript Vite Tailwind CSS Framer Motion
+
+Responsive design
+
+Animated sections and counters
+
+Interactive appointment form
+
+Modern glassmorphism interface
+
+<p>
+  <a href="https://northside-auto-repair.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" />
+  </a>
+  <a href="https://github.com/332mindset/northside-auto-repair">
+    <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Source code" />
+  </a>
+</p>
+
+What I Build
+
+<table>
   <tr>
-    <td width="280" align="center" valign="top">
-      <img src="./assets/desktop.png" alt="SkyHypr screenshot" width="100%" />
-      <br><br>
-      <a href="https://github.com/332mindset/SkyHypr">
-        <img src="https://img.shields.io/badge/Repository-SkyHypr-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="280" align="center" valign="top">
-      <img src="./assets/skywalker.png" alt="ddosVIsual screenshot" width="100%" />
-      <br><br>
-      <a href="https://github.com/332mindset/ddosVIsual">
-        <img src="https://img.shields.io/badge/Repository-ddosVIsual-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="280" align="center" valign="top">
-      <img src="./assets/academy.png" alt="hacklinux-academy screenshot" width="100%" />
-      <br><br>
-      <a href="https://github.com/332mindset/hacklinux-academy">
-        <img src="https://img.shields.io/badge/Repository-hacklinux--academy-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
+    <td><b>Business websites</b><br />Modern sites for local companies and service businesses.</td>
+    <td><b>Landing pages</b><br />Focused pages designed around a clear business goal.</td>
+  </tr>
+  <tr>
+    <td><b>Responsive interfaces</b><br />Layouts that work properly across desktop and mobile.</td>
+    <td><b>Website redesigns</b><br />Modernized visuals, structure and interactions.</td>
   </tr>
 </table>
 
-</div>
-
-<br>
-
-## ✦ Get in touch
-
-<div align="center">
-
-<a href="mailto:yarikgladenko2@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-yarikgladenko2%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://t.me/haanagumorii">
-  <img src="https://img.shields.io/badge/Telegram-@haanagumorii-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-## Cybersecurity
-
-I’m starting to study cybersecurity.  
-If you have experience and can help me learn, feel free to contact me.
-
-<br>
-
-<div align="center">
-
-<sub>still learning. still building.</sub>
-
-</div>
+<p align="center">
+  <b>Available for freelance frontend projects.</b>
+</p>
