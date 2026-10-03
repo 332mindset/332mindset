@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="310" viewBox="0 0 840 310" role="img" aria-label="Most used languages">
+<rect width="100%" height="100%" rx="16" fill="#0b1011"/><rect x=".5" y=".5" width="839" height="309" rx="15.5" fill="none" stroke="#78d5df" stroke-opacity=".25"/>
+<text x="40" y="46" fill="#e4e6e3" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">Most used languages</text>
+<text x="40" y="70" fill="#8a9899" font-family="Segoe UI,Arial,sans-serif" font-size="13">By code size across my public repositories</text>
+<clipPath id="c"><rect x="40" y="94" width="760" height="16" rx="8"/></clipPath><g clip-path="url(#c)">
+<rect x="40.0" y="94" width="400.3" height="16" fill="#3178c6"/>
+<rect x="440.3" y="94" width="240.3" height="16" fill="#f1e05a"/>
+<rect x="680.6" y="94" width="42.9" height="16" fill="#a07cf0"/>
+<rect x="723.5" y="94" width="33.9" height="16" fill="#3572A5"/>
+<rect x="757.4" y="94" width="29.9" height="16" fill="#5686a5"/>
+<rect x="787.3" y="94" width="11.0" height="16" fill="#89e051"/>
+<rect x="798.3" y="94" width="1.7" height="16" fill="#e34c26"/>
+</g>
+<circle cx="46" cy="150" r="6" fill="#3178c6"/>
+<text x="62" y="155" fill="#e4e6e3" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">TypeScript</text>
+<text x="370" y="155" text-anchor="end" fill="#8a9899" font-family="Segoe UI,Arial,sans-serif" font-size="15">52.7%</text>
+<circle cx="426" cy="150" r="6" fill="#f1e05a"/>
+<text x="442" y="155" fill="#e4e6e3" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">JavaScript</text>
+<text x="750" y="155" text-anchor="end" fill="#8a9899" font-family="Segoe UI,Arial,sans-serif" font-size="15">31.6%</text>
+<circle cx="46" cy="184" r="6" fill="#a07cf0"/>
+<text x="62" y="189" fill="#e4e6e3" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">CSS</text>
+<text x="370" y="189" text-anchor="end" fill="#8a9899" font-family="Segoe UI,Arial,sans-serif" font-size="15">5.6%</text>
+<circle cx="426" cy="184" r="6" fill="#3572A5"/>
+<text x="442" y="189" fill="#e4e6e3" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">Python</text>
+<text x="750" y="189" text-anchor="end" fill="#8a9899" font-family="Segoe UI,Arial,sans-serif" font-size="15">4.5%</text>
+<circle cx="46" cy="218" r="6" fill="#5686a5"/>
+<text x="62" y="223" fill="#e4e6e3" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">GLSL</text>
+<text x="370" y="223" text-anchor="end" fill="#8a9899" font-family="Segoe UI,Arial,sans-serif" font-size="15">3.9%</text>
+<circle cx="426" cy="218" r="6" fill="#89e051"/>
+<text x="442" y="223" fill="#e4e6e3" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">Shell</text>
+<text x="750" y="223" text-anchor="end" fill="#8a9899" font-family="Segoe UI,Arial,sans-serif" font-size="15">1.4%</text>
+<circle cx="46" cy="252" r="6" fill="#e34c26"/>
+<text x="62" y="257" fill="#e4e6e3" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">HTML</text>
+<text x="370" y="257" text-anchor="end" fill="#8a9899" font-family="Segoe UI,Arial,sans-serif" font-size="15">0.2%</text>
+</svg>

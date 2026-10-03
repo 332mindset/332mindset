@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="hanagumori — frontend developer and software engineer">
+<defs>
+<pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#78d5df" stroke-opacity=".07"/></pattern>
+<radialGradient id="a" cx="85%" cy="0%" r="70%"><stop offset="0" stop-color="#78d5df" stop-opacity=".22"/><stop offset="1" stop-color="#78d5df" stop-opacity="0"/></radialGradient>
+<radialGradient id="b" cx="0%" cy="100%" r="60%"><stop offset="0" stop-color="#e2b073" stop-opacity=".16"/><stop offset="1" stop-color="#e2b073" stop-opacity="0"/></radialGradient>
+<linearGradient id="t" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#78d5df"/></linearGradient>
+</defs>
+<style>
+.f{font-family:"Segoe UI",Helvetica,Arial,sans-serif}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+.caret{animation:blink 1.1s infinite}
+@keyframes sweep{from{transform:translateX(-400px)}to{transform:translateX(1400px)}}
+.sweep{animation:sweep 6s linear infinite}
+</style>
+<rect width="1200" height="320" rx="20" fill="#070a0b"/>
+<rect width="1200" height="320" rx="20" fill="url(#g)"/>
+<rect width="1200" height="320" rx="20" fill="url(#a)"/>
+<rect width="1200" height="320" rx="20" fill="url(#b)"/>
+<g clip-path="inset(0 round 20px)"><rect class="sweep" x="0" y="0" width="120" height="320" fill="#78d5df" opacity=".05" transform="skewX(-20)"/></g>
+<rect x=".5" y=".5" width="1199" height="319" rx="19.5" fill="none" stroke="#78d5df" stroke-opacity=".28"/>
+<g transform="translate(70 56)" fill="none" stroke="#c59e6a" stroke-width="2.4"><path d="M24 2 44 13v22L24 46 4 35V13Z"/><path d="M13 17h22L24 37Z"/></g>
+<text class="f" x="140" y="92" fill="#8a9899" font-size="20" letter-spacing="2">FRONTEND DEVELOPER · SOFTWARE ENGINEER</text>
+<text class="f" x="68" y="196" fill="url(#t)" font-size="84" font-weight="800" letter-spacing="-3">hanagumori</text>
+<text class="f" x="70" y="240" fill="#b3bebe" font-size="26">Websites and Telegram bots for small businesses.</text>
+<text class="f" x="70" y="286" fill="#78d5df" font-size="20" font-family="Consolas,Menlo,monospace"><tspan fill="#e2b073">$</tspan> React · TypeScript · Python · Linux<tspan class="caret" dx="4" fill="#78d5df">▌</tspan></text>
+</svg>
