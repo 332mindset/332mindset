@@ -59,11 +59,11 @@ A real-time 3D scene: a suspended armor, robotic arms and a contact hologram. An
 <a href="https://ceo-six-phi.vercel.app">Live scene</a> · <a href="https://github.com/332mindset/CEO">Code</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/332mindset/SkyHypr"><img src="https://raw.githubusercontent.com/332mindset/SkyHypr/main/screenshots/desktop.png" alt="SkyHypr"/></a>
-<h3>🌌 SkyHypr</h3>
-A minimal black &amp; cyan Hyprland desktop setup with custom utilities, animations and scripts.<br/>
-<sub>Python · Shell · Linux</sub><br/>
-<a href="https://github.com/332mindset/SkyHypr">Code</a>
+<a href="https://www.youtube.com/watch?v=beIpVuMDd-8"><img src="assets/arch-dotfiles.svg" alt="Arch Linux + Hyprland dotfiles — monochrome desktop configuration"/></a>
+<h3>🐧 Arch Linux Dotfiles</h3>
+My monochrome Arch Linux + Hyprland setup: smooth animations, custom menus, clipboard tools and a matching terminal.<br/>
+<sub>Lua · Python · Shell · Hyprland</sub><br/>
+<a href="https://www.youtube.com/watch?v=beIpVuMDd-8">Desktop showcase</a> · <a href="https://github.com/332mindset/mainArchLinuxDotfiles">Dotfiles</a>
 </td>
 </tr>
 </table>
