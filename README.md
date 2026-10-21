@@ -1,90 +1,72 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="hanagumori — frontend developer and software engineer" width="100%"/>
+<img src="assets/banner.svg" alt="hanagumori" width="100%"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--gilt--three--30.vercel.app-78d5df?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-gilt-three-30.vercel.app)
-[![Telegram](https://img.shields.io/badge/Telegram-@hanaagumori-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hanaagumori)
-[![Email](https://img.shields.io/badge/Email-yarikgladenko2@gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yarikgladenko2@gmail.com)
-![Status](https://img.shields.io/badge/Open_for_freelance-22c55e?style=for-the-badge)
+[![telegram](https://img.shields.io/badge/telegram-1e2327?style=flat-square&logo=telegram&logoColor=78d5df)](https://t.me/hanaagumori)
+[![youtube](https://img.shields.io/badge/youtube-1e2327?style=flat-square&logo=youtube&logoColor=78d5df)](https://www.youtube.com/@hanagumorii)
+[![portfolio](https://img.shields.io/badge/portfolio-1e2327?style=flat-square&logo=vercel&logoColor=78d5df)](https://portfolio-gilt-three-30.vercel.app)
+[![email](https://img.shields.io/badge/email-1e2327?style=flat-square&logo=gmail&logoColor=78d5df)](mailto:neovimvictorovich@tutamail.com)
 
 </div>
 
----
+<br/>
 
-## 👋 About
-
-I'm a **frontend developer and software engineer**. I build fast, responsive websites and **Telegram bots** for small and local businesses — from the first sketch to a live launch.
-
-My daily stack is **React, TypeScript, Next.js, Vite and Tailwind CSS**, with **Python** for bots and automation, on **Linux**. I use modern AI-assisted workflows to move faster, and I personally review architecture, responsiveness, accessibility and production quality.
-
-## 🧰 Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,python,nodejs,linux,git,github,vercel&perline=7" alt="Tech stack"/>
-</p>
-
-## 📊 Languages
-
-<p align="center">
-  <img src="assets/languages.svg" alt="Most used languages across my public repositories" width="720"/>
-</p>
-
-## 🚀 Selected work
+## currently
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://northside-auto-repair.vercel.app"><img src="assets/northside.webp" alt="Northside Auto Repair"/></a>
-<h3>🚗 Northside Auto Repair</h3>
-Landing page concept for a local auto repair shop: services, booking form, animated stats.<br/>
-<sub>React · TypeScript · Vite</sub><br/>
-<a href="https://northside-auto-repair.vercel.app">Live demo</a> · <a href="https://github.com/332mindset/northside-auto-repair">Code</a>
+<td width="55%">
+<a href="https://www.youtube.com/watch?v=beIpVuMDd-8"><img src="assets/arch-dotfiles.svg" alt="Arch Linux + Hyprland desktop" width="100%"/></a>
 </td>
-<td width="50%" valign="top">
-<a href="https://haven-dental.vercel.app"><img src="assets/haven.webp" alt="Haven Dental"/></a>
-<h3>🦷 Haven Dental</h3>
-Landing page concept for a private dental clinic with calm visuals and a clear path to booking.<br/>
-<sub>React · TypeScript · Tailwind CSS</sub><br/>
-<a href="https://haven-dental.vercel.app">Live demo</a> · <a href="https://github.com/332mindset/haven-dental">Code</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://ceo-six-phi.vercel.app"><img src="assets/workshop.webp" alt="Interactive 3D workshop"/></a>
-<h3>🛠 Interactive 3D workshop</h3>
-A real-time 3D scene: a suspended armor, robotic arms and a contact hologram. An experiment in WebGL.<br/>
-<sub>Three.js · GSAP · Vite</sub><br/>
-<a href="https://ceo-six-phi.vercel.app">Live scene</a> · <a href="https://github.com/332mindset/CEO">Code</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://www.youtube.com/watch?v=beIpVuMDd-8"><img src="assets/arch-dotfiles.svg" alt="Arch Linux + Hyprland dotfiles — monochrome desktop configuration"/></a>
-<h3>🐧 Arch Linux Dotfiles</h3>
-My monochrome Arch Linux + Hyprland setup: smooth animations, custom menus, clipboard tools and a matching terminal.<br/>
-<sub>Lua · Python · Shell · Hyprland</sub><br/>
-<a href="https://www.youtube.com/watch?v=beIpVuMDd-8">Desktop showcase</a> · <a href="https://github.com/332mindset/mainArchLinuxDotfiles">Dotfiles</a>
+<td valign="top">
+
+### [mainArchLinuxDotfiles](https://github.com/332mindset/mainArchLinuxDotfiles)
+
+my monochrome arch + hyprland desktop, with an installer that backs up your old configs before touching anything.
+
+<sub>next: automatic package install and an interactive menu</sub>
+
+```sh
+python3 install.py --apply
+```
+
+[repo](https://github.com/332mindset/mainArchLinuxDotfiles) · [showcase](https://www.youtube.com/watch?v=beIpVuMDd-8)
+
 </td>
 </tr>
 </table>
 
-<sub>Northside and Haven are concept projects for fictional businesses.</sub>
+<br/>
 
-## 💼 What I build
-
-| | |
-|---|---|
-| **Landing pages** | One focused page that turns visitors into inquiries. |
-| **Business websites** | Multi-page sites with clean design, SEO basics and easy-to-edit content. |
-| **Telegram bots** | Order intake, bookings, notifications and support flows in Python. |
-| **Redesigns & fixes** | Modern UI, animations and a faster, more accessible experience. |
-
----
+## activity
 
 <div align="center">
 
-### Have a project in mind?
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=332mindset&bg_color=1e2327&color=78d5df&line=78d5df&point=ffffff&area=true&hide_border=true" alt="contribution activity" width="100%"/>
 
-**[Message me on Telegram](https://t.me/hanaagumori)** · **[Visit the portfolio](https://portfolio-gilt-three-30.vercel.app)** · **[Email](mailto:yarikgladenko2@gmail.com)**
+<br/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=332mindset&layout=compact&hide_border=true&bg_color=1e2327&title_color=78d5df&text_color=c9d1d9" alt="top languages" height="150"/>
+<img src="https://streak-stats.demolab.com?user=332mindset&hide_border=true&background=1e2327&ring=78d5df&fire=78d5df&currStreakLabel=78d5df&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=78d5df&dates=8b949e" alt="streak" height="150"/>
+
+</div>
+
+## stack
+
+![arch](https://img.shields.io/badge/arch-1e2327?style=flat-square&logo=archlinux&logoColor=78d5df)
+![hyprland](https://img.shields.io/badge/hyprland-1e2327?style=flat-square&logo=hyprland&logoColor=78d5df)
+![python](https://img.shields.io/badge/python-1e2327?style=flat-square&logo=python&logoColor=78d5df)
+![shell](https://img.shields.io/badge/shell-1e2327?style=flat-square&logo=gnubash&logoColor=78d5df)
+![react](https://img.shields.io/badge/react-1e2327?style=flat-square&logo=react&logoColor=78d5df)
+![typescript](https://img.shields.io/badge/typescript-1e2327?style=flat-square&logo=typescript&logoColor=78d5df)
+![next.js](https://img.shields.io/badge/next.js-1e2327?style=flat-square&logo=nextdotjs&logoColor=78d5df)
+![vite](https://img.shields.io/badge/vite-1e2327?style=flat-square&logo=vite&logoColor=78d5df)
+![tailwind](https://img.shields.io/badge/tailwind-1e2327?style=flat-square&logo=tailwindcss&logoColor=78d5df)
+
+<br/>
+
+<div align="center">
+<sub>open for freelance · websites, frontend, python automation</sub>
 </div>
