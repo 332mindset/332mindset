@@ -44,29 +44,15 @@ python3 install.py --apply
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=332mindset&bg_color=1e2327&color=78d5df&line=78d5df&point=ffffff&area=true&hide_border=true" alt="contribution activity" width="100%"/>
-
-<br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=332mindset&layout=compact&hide_border=true&bg_color=1e2327&title_color=78d5df&text_color=c9d1d9" alt="top languages" height="150"/>
 <img src="https://streak-stats.demolab.com?user=332mindset&hide_border=true&background=1e2327&ring=78d5df&fire=78d5df&currStreakLabel=78d5df&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=78d5df&dates=8b949e" alt="streak" height="150"/>
 
 </div>
 
-## stack
-
-![arch](https://img.shields.io/badge/arch-1e2327?style=flat-square&logo=archlinux&logoColor=78d5df)
-![hyprland](https://img.shields.io/badge/hyprland-1e2327?style=flat-square&logo=hyprland&logoColor=78d5df)
-![python](https://img.shields.io/badge/python-1e2327?style=flat-square&logo=python&logoColor=78d5df)
-![shell](https://img.shields.io/badge/shell-1e2327?style=flat-square&logo=gnubash&logoColor=78d5df)
-![react](https://img.shields.io/badge/react-1e2327?style=flat-square&logo=react&logoColor=78d5df)
-![typescript](https://img.shields.io/badge/typescript-1e2327?style=flat-square&logo=typescript&logoColor=78d5df)
-![next.js](https://img.shields.io/badge/next.js-1e2327?style=flat-square&logo=nextdotjs&logoColor=78d5df)
-![vite](https://img.shields.io/badge/vite-1e2327?style=flat-square&logo=vite&logoColor=78d5df)
-![tailwind](https://img.shields.io/badge/tailwind-1e2327?style=flat-square&logo=tailwindcss&logoColor=78d5df)
-
 <br/>
 
-<div align="center">
-<sub>open for freelance · websites, frontend, python automation</sub>
-</div>
+## stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arch,linux,bash,python,ts,react,nextjs,vite,tailwind,git,github,vercel&theme=dark&perline=12" alt="stack"/>
+</p>
