@@ -58,9 +58,16 @@ python3 install.py --apply   # install
 
 ## stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,linux,bash,python,ts,react,nextjs,vite,tailwind,git,github,vercel&theme=dark&perline=12" alt="stack"/>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="50%"><sub><b>SYSTEM</b></sub><br/><br/><img src="https://skillicons.dev/icons?i=arch,linux,bash,neovim,vscode,git&theme=dark&perline=6" height="56"/></td>
+<td align="center" width="50%"><sub><b>LANGUAGES</b></sub><br/><br/><img src="https://skillicons.dev/icons?i=python,ts,js,lua,html,css&theme=dark&perline=6" height="56"/></td>
+</tr>
+<tr>
+<td align="center"><sub><b>FRONTEND</b></sub><br/><br/><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,npm&theme=dark&perline=6" height="56"/></td>
+<td align="center"><sub><b>SHIP</b></sub><br/><br/><img src="https://skillicons.dev/icons?i=github,githubactions,vercel,md&theme=dark&perline=4" height="56"/></td>
+</tr>
+</table>
 
 <br/>
 
@@ -68,8 +75,12 @@ python3 install.py --apply   # install
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=332mindset&layout=compact&hide_border=true&bg_color=18181b&title_color=b4c3ff&text_color=c9c9ce" alt="top languages" height="150"/>
-<img src="https://streak-stats.demolab.com?user=332mindset&hide_border=true&background=18181b&ring=e0444c&fire=e0444c&currStreakLabel=b4c3ff&currStreakNum=e6e6ea&sideNums=e6e6ea&sideLabels=b4c3ff&dates=8b8b91" alt="streak" height="150"/>
+<img src="assets/stats.svg" alt="github stats" width="49%"/>
+<img src="assets/langs.svg" alt="most used languages" width="49%"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/332mindset/332mindset/output/snake.svg" alt="contribution snake" width="100%"/>
 
 </div>
 

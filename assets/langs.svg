@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="216" viewBox="0 0 680 216" font-family="JetBrains Mono,ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<style>.f{animation:in .6s ease-out both}@keyframes in{from{opacity:0}}</style>
+<rect width="680" height="216" rx="14" fill="#18181b"/>
+<rect x=".5" y=".5" width="679" height="215" rx="13.5" fill="none" stroke="#b4c3ff" stroke-opacity=".18"/>
+<circle cx="24" cy="22" r="5" fill="#e0444c"/><circle cx="40" cy="22" r="5" fill="#b4c3ff"/><circle cx="56" cy="22" r="5" fill="#2a2a30"/><text x="340.0" y="26" text-anchor="middle" fill="#8b8b91" font-size="12">~ languages</text>
+<line x1="0" y1="44" x2="680" y2="44" stroke="#2a2a30"/>
+<clipPath id="bar"><rect x="24" y="66" width="632" height="10" rx="5"/></clipPath><g clip-path="url(#bar)">
+<rect x="24.0" y="66" width="304.3" height="10" fill="#e0444c"/>
+<rect x="328.3" y="66" width="182.7" height="10" fill="#b4c3ff"/>
+<rect x="511.1" y="66" width="62.4" height="10" fill="#e6e6ea"/>
+<rect x="573.5" y="66" width="29.9" height="10" fill="#f2a2a6"/>
+<rect x="603.5" y="66" width="29.8" height="10" fill="#7f8ccc"/>
+<rect x="633.3" y="66" width="22.7" height="10" fill="#8b8b91"/>
+</g>
+<g class="f" style="animation-delay:0.00s"><circle cx="29" cy="108" r="5" fill="#e0444c"/><text x="42" y="112" fill="#e6e6ea" font-size="13">TypeScript</text><text x="324" y="112" text-anchor="end" fill="#8b8b91" font-size="13">48.2%</text><rect x="42" y="120" width="282" height="3" rx="1.5" fill="#2a2a30"/><rect x="42" y="120" width="135.8" height="3" rx="1.5" fill="#e0444c"/></g>
+<g class="f" style="animation-delay:0.12s"><circle cx="359" cy="108" r="5" fill="#b4c3ff"/><text x="372" y="112" fill="#e6e6ea" font-size="13">JavaScript</text><text x="654" y="112" text-anchor="end" fill="#8b8b91" font-size="13">28.9%</text><rect x="372" y="120" width="282" height="3" rx="1.5" fill="#2a2a30"/><rect x="372" y="120" width="81.5" height="3" rx="1.5" fill="#b4c3ff"/></g>
+<g class="f" style="animation-delay:0.24s"><circle cx="29" cy="142" r="5" fill="#e6e6ea"/><text x="42" y="146" fill="#e6e6ea" font-size="13">Python</text><text x="324" y="146" text-anchor="end" fill="#8b8b91" font-size="13">9.9%</text><rect x="42" y="154" width="282" height="3" rx="1.5" fill="#2a2a30"/><rect x="42" y="154" width="27.9" height="3" rx="1.5" fill="#e6e6ea"/></g>
+<g class="f" style="animation-delay:0.36s"><circle cx="359" cy="142" r="5" fill="#f2a2a6"/><text x="372" y="146" fill="#e6e6ea" font-size="13">Shell</text><text x="654" y="146" text-anchor="end" fill="#8b8b91" font-size="13">4.7%</text><rect x="372" y="154" width="282" height="3" rx="1.5" fill="#2a2a30"/><rect x="372" y="154" width="13.4" height="3" rx="1.5" fill="#f2a2a6"/></g>
+<g class="f" style="animation-delay:0.48s"><circle cx="29" cy="176" r="5" fill="#7f8ccc"/><text x="42" y="180" fill="#e6e6ea" font-size="13">Lua</text><text x="324" y="180" text-anchor="end" fill="#8b8b91" font-size="13">4.7%</text><rect x="42" y="188" width="282" height="3" rx="1.5" fill="#2a2a30"/><rect x="42" y="188" width="13.3" height="3" rx="1.5" fill="#7f8ccc"/></g>
+<g class="f" style="animation-delay:0.60s"><circle cx="359" cy="176" r="5" fill="#8b8b91"/><text x="372" y="180" fill="#e6e6ea" font-size="13">GLSL</text><text x="654" y="180" text-anchor="end" fill="#8b8b91" font-size="13">3.6%</text><rect x="372" y="188" width="282" height="3" rx="1.5" fill="#2a2a30"/><rect x="372" y="188" width="10.1" height="3" rx="1.5" fill="#8b8b91"/></g>
+</svg>
